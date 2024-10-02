@@ -1,36 +1,49 @@
 # PROGRAMME DE SPÉCIALISATION EN VISION PAR ORDINATEUR  
 **Édition : 2024**  
 **Début : 07 Octobre 2024**  
-**Durée : 10 Mois**  
+**Durée : 10 Mois**
 
 ## À propos du programme
 
 Le **Programme de Spécialisation en Vision par Ordinateur** est une formation intensive de 36 semaines, organisée autour de projets concrets, visant à développer des compétences pratiques pour résoudre des problèmes réels grâce à la vision par ordinateur. Cette spécialisation couvre des sujets allant des bases du traitement d'images aux modèles avancés de réseaux neuronaux profonds et aux solutions de vision multimodale.
 
-
-
 ### Phases de Sélection  
 - **Dates de sélection** : Du 25 Septembre 2024 au 04 Octobre 2024  
 - **Critères de sélection** :  
     - Participation réussie au bootcamp d'une durée de 3 heures avec un taux de réussite de 90 %  
-    - Participation à un challenge
+    - Participation à un challenge  
 
+## Liste des postulants
+
+| Noms                | Prénoms   | Adresse | Date de naissance | Pays   | Sexe | Niveau d'études | Établissement | Profession           | Mail                            |
+|---------------------|-----------|---------|-------------------|--------|------|-----------------|---------------|----------------------|---------------------------------|
+| TITO                | Lucien    | XYZ     | 01/01/1995        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| titovlucien@gmail.com           |
+| ANAGO               | Miguel    | XYZ     | 02/02/1994        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| miguelanago85@gmail.com         |
+| HOUNTON             | Johannes  | XYZ     | 03/03/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| johanneshyz@gmail.com           |
+| NOUKON              | Gilberto  | XYZ     | 04/04/1992        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| gilbertonoukon@gmail.com        |
+| ADOHO               | Nathan    | XYZ     | 05/05/1994        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| luzolo.adoho@gmail.com          |
+| ADISSO              | Nelxie    | XYZ     | 06/06/1996        | Bénin  | F    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| steenaadisso@gmail.com          |
+| GOUNON              | Eliakim   | XYZ     | 07/07/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| eliakimceleste@gmail.com        |
+| GBAGUIDI            | Ghilth    | XYZ     | 08/08/1995        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| ghilthg@gmail.com               |
+| GNANGUENON          | Abed-Négo | XYZ     | 09/09/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| abedneggognanguenon@gmail.com   |
+| ADJIBADE            | Sadiyath  | XYZ     | 10/10/1994        | Bénin  | F    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| aliyahadjibade@gmail.com        |
+| BACHABI             | Alim      | XYZ     | 11/11/1992        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| abdelalimbachabi@gmail.com      |
 
 ## Participants Sélectionnés
 
-| Noms participants    | Mails                     | Sélectionnées |
-|----------------------|---------------------------|---------------|
-| John Doe             | john.doe@example.com       | Oui           |
-| Jane Smith           | jane.smith@example.com     | Oui           |
-| Mark Johnson         | mark.johnson@example.com   | Oui           |
-| Lucy Brown           | lucy.brown@example.com     | Non           |
-| Michael Davis        | michael.davis@example.com  | Oui           |
-| Emma Wilson          | emma.wilson@example.com    | Oui           |
-| Liam Moore           | liam.moore@example.com     | Non           |
-| Olivia Taylor        | olivia.taylor@example.com  | Oui           |
-| Noah Anderson        | noah.anderson@example.com  | Non           |
-| Sophia Martinez      | sophia.martinez@example.com| Oui           |
-
+| Noms participants     | Mails                            | Sélectionné |
+|-----------------------|----------------------------------|-------------|
+| TITO Lucien           | titovlucien@gmail.com            | Oui         |
+| ANAGO Miguel          | miguelanago85@gmail.com          | Oui         |
+| HOUNTON Johannes      | johanneshyz@gmail.com            | Oui         |
+| NOUKON Gilberto       | gilbertonoukon@gmail.com         | Non         |
+| ADOHO Nathan          | luzolo.adoho@gmail.com           | Oui         |
+| ADISSO Nelxie         | steenaadisso@gmail.com           | Oui         |
+| GOUNON Eliakim        | eliakimceleste@gmail.com         | Non         |
+| GBAGUIDI Ghilth       | ghilthg@gmail.com                | Oui         |
+| GNANGUENON Abed-Négo  | abedneggognanguenon@gmail.com    | Non         |
+| ADJIBADE Sadiyath     | aliyahadjibade@gmail.com         | Oui         |
+| BACHABI Alim          | abdelalimbachabi@gmail.com       | Oui         |
 
 ## Structure du programme
 
