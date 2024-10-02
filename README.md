@@ -1,6 +1,3 @@
-# .github
-Bienvenue au PSVO-2024.
-
 # PROGRAMME DE SPÉCIALISATION EN VISION PAR ORDINATEUR  
 **Édition : 2024**  
 **Début : 07 Octobre 2024**  
