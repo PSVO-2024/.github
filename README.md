@@ -7,17 +7,30 @@
 
 Le **Programme de Spécialisation en Vision par Ordinateur** est une formation intensive de 36 semaines, organisée autour de projets concrets, visant à développer des compétences pratiques pour résoudre des problèmes réels grâce à la vision par ordinateur. Cette spécialisation couvre des sujets allant des bases du traitement d'images aux modèles avancés de réseaux neuronaux profonds et aux solutions de vision multimodale.
 
-Les participants seront supervisés par des experts reconnus dans le domaine :  
-- **Mme Syntiche**  
-- **Prof. Eugène EZIN**  
-- **M. Sègbédji Junior**  
-- **M. Muhammad Rizwan Munawar**
+
 
 ### Phases de Sélection  
 - **Dates de sélection** : Du 25 Septembre 2024 au 04 Octobre 2024  
 - **Critères de sélection** :  
     - Participation réussie au bootcamp d'une durée de 3 heures avec un taux de réussite de 90 %  
     - Participation à un challenge
+
+
+## Participants Sélectionnés
+
+| Noms participants    | Mails                     | Sélectionnées |
+|----------------------|---------------------------|---------------|
+| John Doe             | john.doe@example.com       | Oui           |
+| Jane Smith           | jane.smith@example.com     | Oui           |
+| Mark Johnson         | mark.johnson@example.com   | Oui           |
+| Lucy Brown           | lucy.brown@example.com     | Non           |
+| Michael Davis        | michael.davis@example.com  | Oui           |
+| Emma Wilson          | emma.wilson@example.com    | Oui           |
+| Liam Moore           | liam.moore@example.com     | Non           |
+| Olivia Taylor        | olivia.taylor@example.com  | Oui           |
+| Noah Anderson        | noah.anderson@example.com  | Non           |
+| Sophia Martinez      | sophia.martinez@example.com| Oui           |
+
 
 ## Structure du programme
 
