@@ -15,55 +15,36 @@ Le **Programme de Spécialisation en Vision par Ordinateur** est une formation i
 
 ## Liste des postulants
 
-| Noms                | Prénoms   | Adresse | Date de naissance | Pays   | Sexe | Niveau d'études | Établissement | Profession           | Mail                            |
-|---------------------|-----------|---------|-------------------|--------|------|-----------------|---------------|----------------------|---------------------------------|
-| TITO                | Lucien    | XYZ     | 01/01/1995        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| titovlucien@gmail.com           |
-| ANAGO               | Miguel    | XYZ     | 02/02/1994        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| miguelanago85@gmail.com         |
-| HOUNTON             | Johannes  | XYZ     | 03/03/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| johanneshyz@gmail.com           |
-| NOUKON              | Gilberto  | XYZ     | 04/04/1992        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| gilbertonoukon@gmail.com        |
-| ADOHO               | Nathan    | XYZ     | 05/05/1994        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| luzolo.adoho@gmail.com          |
-| ADISSO              | Nelxie    | XYZ     | 06/06/1996        | Bénin  | F    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| steenaadisso@gmail.com          |
-| GOUNON              | Eliakim   | XYZ     | 07/07/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| eliakimceleste@gmail.com        |
-| GBAGUIDI            | Ghilth    | XYZ     | 08/08/1995        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| ghilthg@gmail.com               |
-| GNANGUENON          | Abed-Négo | XYZ     | 09/09/1993        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| abedneggognanguenon@gmail.com   |
-| ADJIBADE            | Sadiyath  | XYZ     | 10/10/1994        | Bénin  | F    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| aliyahadjibade@gmail.com        |
-| BACHABI             | Alim      | XYZ     | 11/11/1992        | Bénin  | M    | BAC+2 en IA      | UAC IFRI      | Junior Data Scientist| abdelalimbachabi@gmail.com      |
+| Noms                | Prénoms   | Date de naissance | Pays   | Sexe | Niveau d'études  | Mail                            |
+|---------------------|-----------|----------------------------|------|------------------|---------------------------------|
+| TITO                | Lucien    | 01/01/1995        | Bénin  | M    | BAC+2 en IA      | titovlucien@gmail.com           |
+| ANAGO               | Miguel    | 02/02/1994        | Bénin  | M    | BAC+2 en IA      | miguelanago85@gmail.com         |
+| HOUNTON             | Johannes  | 03/03/1993        | Bénin  | M    | BAC+2 en IA      | johanneshyz@gmail.com           |
+| NOUKON              | Gilberto  | 04/04/1992        | Bénin  | M    | BAC+2 en IA      | gilbertonoukon@gmail.com        |
+| ADOHO               | Nathan    | 05/05/1994        | Bénin  | M    | BAC+2 en IA      | luzolo.adoho@gmail.com          |
+| ADISSO              | Nelxie    | 06/06/1996        | Bénin  | F    | BAC+2 en IA      | steenaadisso@gmail.com          |
+| GOUNON              | Eliakim   | 07/07/1993        | Bénin  | M    | BAC+2 en IA      | eliakimceleste@gmail.com        |
+| GBAGUIDI            | Ghilth    | 08/08/1995        | Bénin  | M    | BAC+2 en IA      | ghilthg@gmail.com               |
+| GNANGUENON          | Abed-Négo | 09/09/1993        | Bénin  | M    | BAC+2 en IA      | abedneggognanguenon@gmail.com   |
+| ADJIBADE            | Sadiyath  | 10/10/1994        | Bénin  | F    | BAC+2 en IA      | aliyahadjibade@gmail.com        |
+| BACHABI             | Alim      | 11/11/1992        | Bénin  | M    | BAC+2 en IA      | abdelalimbachabi@gmail.com      |
 
 ## Participants Sélectionnés
 
 | Noms participants     | Mails                            | Sélectionné |
 |-----------------------|----------------------------------|-------------|
-| TITO Lucien           | titovlucien@gmail.com            | Oui         |
-| ANAGO Miguel          | miguelanago85@gmail.com          | Oui         |
-| HOUNTON Johannes      | johanneshyz@gmail.com            | Oui         |
+| TITO Lucien           | titovlucien@gmail.com            | Non         |
+| ANAGO Miguel          | miguelanago85@gmail.com          | Non         |
+| HOUNTON Johannes      | johanneshyz@gmail.com            | Non         |
 | NOUKON Gilberto       | gilbertonoukon@gmail.com         | Non         |
-| ADOHO Nathan          | luzolo.adoho@gmail.com           | Oui         |
-| ADISSO Nelxie         | steenaadisso@gmail.com           | Oui         |
+| ADOHO Nathan          | luzolo.adoho@gmail.com           | Non         |
+| ADISSO Nelxie         | steenaadisso@gmail.com           | Non         |
 | GOUNON Eliakim        | eliakimceleste@gmail.com         | Non         |
-| GBAGUIDI Ghilth       | ghilthg@gmail.com                | Oui         |
+| GBAGUIDI Ghilth       | ghilthg@gmail.com                | Non         |
 | GNANGUENON Abed-Négo  | abedneggognanguenon@gmail.com    | Non         |
-| ADJIBADE Sadiyath     | aliyahadjibade@gmail.com         | Oui         |
-| BACHABI Alim          | abdelalimbachabi@gmail.com       | Oui         |
+| ADJIBADE Sadiyath     | aliyahadjibade@gmail.com         | Non         |
+| BACHABI Alim          | abdelalimbachabi@gmail.com       | Non         |
 
-## Structure du programme
-
-### Phase 1 : Débutant (Semaines 1-12)
-- **Objectif** : Construire une base solide en traitement d'images et en réseaux de neurones convolutionnels (CNN).
-- **Outils** : OpenCV, TensorFlow, PyTorch
-- **Projets** : Manipulation d'images, implémentation de CNN basiques, segmentation d'images, etc.
-
-### Phase 2 : Intermédiaire (Semaines 13-24)
-- **Objectif** : Acquérir une maîtrise dans les systèmes de détection d’objets et de reconnaissance en temps réel.
-- **Projets** : Détection d'objets avec YOLO, super-résolution d'images avec GANs, vision multimodale, etc.
-
-### Phase 3 : Expertise (Semaines 25-36)
-- **Objectif** : Se spécialiser dans les VLMs (Vision Large Models) et les LLMs (Large Language Models).
-- **Projets** : Déploiement de modèles à grande échelle, création de systèmes de vision pour la robotique, détection d'anomalies industrielles, etc.
-
-## Outils Techniques Utilisés
-- **Langages et environnements** : Python, Jupyter Notebook, Google Colab
-- **Bibliothèques** : OpenCV, scikit-image, TensorFlow, PyTorch, Hugging Face, etc.
-- **Outils de déploiement** : Docker, Streamlit, AWS, Google Cloud, Azure
 
 ## Débouchés Professionnels
 Le programme ouvre la voie à plusieurs opportunités professionnelles, dont :  
