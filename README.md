@@ -15,21 +15,19 @@ Le **Programme de Spécialisation en Vision par Ordinateur** est une formation i
 
 ## Liste des postulants
 
-
-
-| Noms       | Prénoms   | Date de naissance | Pays  | Sexe | Niveau d'études | Mail                             |
-|------------|-----------|-------------------|-------|------|-----------------|----------------------------------|
-| TITO       | Lucien    | 01/01/1995        | Bénin | M    | BAC+2 en IA     | titovlucien@gmail.com            |
-| ANAGO      | Miguel    | 02/02/1994        | Bénin | M    | BAC+2 en IA     | miguelanago85@gmail.com          |
-| HOUNTON    | Johannes  | 03/03/1993        | Bénin | M    | BAC+2 en IA     | johanneshyz@gmail.com            |
-| NOUKON     | Gilberto  | 04/04/1992        | Bénin | M    | BAC+2 en IA     | gilbertonoukon@gmail.com         |
-| ADOHO      | Nathan    | 05/05/1994        | Bénin | M    | BAC+2 en IA     | luzolo.adoho@gmail.com           |
-| ADISSO     | Nelxie    | 06/06/1996        | Bénin | F    | BAC+2 en IA     | steenaadisso@gmail.com           |
-| GOUNON     | Eliakim   | 07/07/1993        | Bénin | M    | BAC+2 en IA     | eliakimceleste@gmail.com         |
-| GBAGUIDI   | Ghilth    | 08/08/1995        | Bénin | M    | BAC+2 en IA     | ghilthg@gmail.com                |
-| GNANGUENON | Abed-Négo | 09/09/1993        | Bénin | M    | BAC+2 en IA     | abedneggognanguenon@gmail.com    |
-| ADJIBADE   | Sadiyath  | 10/10/1994        | Bénin | F    | BAC+2 en IA     | aliyahadjibade@gmail.com         |
-| BACHABI    | Alim      | 11/11/1992        | Bénin | M    | BAC+2 en IA     | abdelalimbachabi@gmail.com       |
+| Noms       | Prénoms   | Pays  | Sexe | Niveau d'études | Mail                             |
+|------------|-----------|-------|------|-----------------|----------------------------------|
+| TITO       | Lucien    | Bénin | M    | Licence         | titovlucien@gmail.com            |
+| ANAGO      | Miguel    | Bénin | M    | Licence         | miguelanago85@gmail.com          |
+| HOUNTON    | Johannes  | Bénin | M    | Licence         | johanneshyz@gmail.com            |
+| NOUKON     | Gilberto  | Bénin | M    | Licence         | gilbertonoukon@gmail.com         |
+| ADOHO      | Nathan    | Bénin | M    | Licence         | luzolo.adoho@gmail.com           |
+| ADISSO     | Nelxie    | Bénin | F    | Licence         | steenaadisso@gmail.com           |
+| GOUNON     | Eliakim   | Bénin | M    | Licence         | eliakimceleste@gmail.com         |
+| GBAGUIDI   | Ghilth    | Bénin | M    | Licence         | ghilthg@gmail.com                |
+| GNANGUENON | Abed-Négo | Bénin | M    | Licence         | abedneggognanguenon@gmail.com    |
+| ADJIBADE   | Sadiyath  | Bénin | F    | Licence         | aliyahadjibade@gmail.com         |
+| BACHABI    | Alim      | Bénin | M    | Licence         | abdelalimbachabi@gmail.com       |
 
 ## Participants Sélectionnés
 
